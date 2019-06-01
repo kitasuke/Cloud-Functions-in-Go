@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Name",
+    "type": "String",
+    "mode": "Required"
+  },
+  {
+    "name": "Place",
+    "type": "String",
+    "mode": "Nullable"
+  }
+]
